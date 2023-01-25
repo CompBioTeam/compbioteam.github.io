@@ -1,0 +1,38 @@
+---
+title: Hello World
+---
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+
+    <title>Algorithmic Sandbox Laboratory</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300|Sonsie+One" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" href="{{ '/assets/css/spectre.css' | url }}">
+    <link rel="stylesheet" href="{{ '/assets/css/index.css' | url }}">
+
+  </head>
+
+  <body>
+    <div id="particles-js"></div>
+    {% include "header.njk" %}
+
+    <main class="header-margin">
+        <div class="container">
+        <div class="columns flex-center">
+          <div class="column col-6 col-md-12 pa2 bg-blur full-shadow rounded-corner">
+              {{ content | safe }}
+          </div>
+        </div>
+        </div>
+        </div>
+
+    </main>
+    {# {% include "footer.njk" %} #}
+
+  <script src="{{ '/assets/js/particles.js' | url }}" defer></script>
+  <script src="{{ '/assets/js/app.js' | url }}" async defer></script>
+  </body>
+</html>
