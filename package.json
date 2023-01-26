@@ -1,5 +1,5 @@
 {
-  "name": "asl_website",
+  "name": "website",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sriram98v/asl_website.git"
+    "url": "git+https://github.com/CompBioTeam/website.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/sriram98v/asl_website/issues"
+    "url": "https://github.com/CompBioTeam/website/issues"
   },
-  "homepage": "https://github.com/sriram98v/asl_website#readme",
+  "homepage": "https://github.com/CompBioTeam/website#readme",
   "devDependencies": {
     "@11ty/eleventy": "^1.0.1",
     "js-yaml": "^4.1.0"
