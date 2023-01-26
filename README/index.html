@@ -1,0 +1,65 @@
+<h1>ASL Website</h1>
+<h2>Testing the website</h2>
+<p>To test the website locally, you will need to install the 11ty package from <a href="https://www.11ty.dev/docs/">here</a>. ensure that installation is a local install and not a global install. once the packages have been installed, you can deploy the website locally on your machine using:</p>
+<pre><code>npx @11ty/eleventy --serve
+</code></pre>
+<p>Please refer the documentation for more information.</p>
+<h2>Instructions to students/alumni/collaborators</h2>
+<p>All students are required to only add information to the <code>_data</code> directory and to not edit files in any other files in the repository. You should fill in the <code>students_ms.json</code> or the <code>students_phd.json</code> files with your information as in individual entry in the members array. For collaborators, the relevant file is <code>colab.json</code>. You are required to add the link to your isu profile. Each entry to the json file looks like:</p>
+<pre><code>{
+  &quot;name&quot;: &quot;&quot;,
+  &quot;photo&quot;: &quot;&quot;,
+  &quot;info&quot;: &quot;&quot;,
+  &quot;website&quot;: &quot;&quot;,
+  &quot;email&quot;: &quot;&quot;,
+  &quot;interests&quot;: &quot;[&quot;&quot;]&quot;,
+  &quot;about&quot;: &quot;&quot;,
+  &quot;github&quot;: &quot;#&quot;
+}
+</code></pre>
+<p>You are required to upload a profile pic to the <code>assets/images/team/</code> directory as well and mention only the file name in the json entry.</p>
+<h3>Home Page</h3>
+<p>The homepage template is in <code>index.md</code>. In order to change the homepage, you can simply edit the text in the homepage at the <code>index.md</code> file. Be careful to not alter any import section on any of the template files</p>
+<h3>Home Page Carousel</h3>
+<p>To change the hompage carousel, please replace the image you want in place of one of the existing images. The new image must use the same name as the one it is replacing. Only four images will display in the carousel.</p>
+<h3>Projects</h3>
+<p>If you would like to list your projects on the ASL website, you can add the link to the codebase on github in the <code>projects.json</code> in the <code>_data</code>. Each entry to the json file looks like:</p>
+<pre><code>{
+  &quot;name&quot;: &quot;&quot;,
+  &quot;photo&quot;: &quot;&quot;,
+  &quot;github&quot;: &quot;&quot;,
+  &quot;about&quot;: &quot;&quot;
+}
+</code></pre>
+<p>You are required to upload a profile pic to the <code>assets/images/projects/</code> directory as well and mention only the file name in the json entry.</p>
+<h3>Publications</h3>
+<p>If you would like to list your publications on the ASL website, you can add the link to the publication and optionally on github in the <code>pubs.json</code> in the <code>_data</code>, which is in BibJSON format. A sample entry to the json file looks like:</p>
+<pre><code>{
+   &quot;type&quot;: &quot;article&quot;,
+   &quot;id&quot;: &quot;markin2022rf&quot;,
+   &quot;citekey&quot;: &quot;markin2022rf&quot;,
+   &quot;collection&quot;: &quot;name&quot;,
+   &quot;title&quot;: &quot;RF-Net 2: fast inference of virus reassortment and hybridization networks&quot;,
+   &quot;year&quot;: &quot;2022&quot;,
+   &quot;author&quot;: [
+    {
+     &quot;name&quot;: &quot;Markin, Alexey&quot;
+    },
+    {
+     &quot;name&quot;: &quot;Wagle, Sanket&quot;
+    },
+    {
+     &quot;name&quot;: &quot;Anderson, Tavis K&quot;
+    },
+    {
+     &quot;name&quot;: &quot;Eulenstein, Oliver&quot;
+    }
+   ],
+   &quot;journal&quot;: {
+    &quot;name&quot;: &quot;Bioinformatics&quot;,
+    &quot;volume&quot;: &quot;38&quot;,
+    &quot;number&quot;: &quot;8&quot;,
+    &quot;pages&quot;: &quot;2144--2152&quot;
+   }
+  },
+</code></pre>
