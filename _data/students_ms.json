@@ -1,0 +1,25 @@
+{
+  "members": [
+              {
+                "name": "Kumara Sri Harsha Vajjhala",
+                "photo": "/assets/images/team/Harsha_dog_photo.jpeg",
+                "info": "M.S.",
+                "website": "https://vksriharsha.github.io/",
+                "email": "harshavk@iastate.edu",
+                "interests": ["Machine Learning", "Deep Learning", "Bayesian Models"],
+                "about": "My research area is the application of Machine Learning for genetic data. I work on applying supervised and un-supervised machine learning techniques on RNA-seq data, as well as developing MetaOmGraph - an open source java based software package for genetic data analysis",
+                "github": "https://github.com/vksriharsha"
+              },
+              {
+                "name": "Son L. Vu",
+                "photo": "/assets/images/team/sonv.jpg",
+                "info": "M.S.",
+                "website": "https://www.linkedin.com/in/son-vu-le/",
+                "email": "svu23@iastate.edu",
+                "interests": ["Machine Learning", "Bioinformatics", "Biomedical Research"],
+                "about": "Machine Learning and Bioinformatics Application in Medical Research",
+                "github": "https://github.com/sonvule59"
+              }
+  ]
+}
+

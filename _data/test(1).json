@@ -1,0 +1,1236 @@
+{
+    "records": [
+        {
+            "type": "article",
+            "id": "markin2022rf",
+            "citekey": "markin2022rf",
+            "collection": "name",
+            "title": "RF-Net 2: fast inference of virus reassortment and hybridization networks",
+            "year": "2022",
+            "author": [
+                {
+                    "name": "Markin, Alexey"
+                },
+                {
+                    "name": "Wagle, Sanket"
+                },
+                {
+                    "name": "Anderson, Tavis K"
+                },
+                {
+                    "name": "Eulenstein, Oliver"
+                }
+            ],
+            "journal": {
+                "name": "Bioinformatics",
+                "volume": "38",
+                "number": "8",
+                "pages": "2144--2152"
+            },
+            "link": "https://doi.org/10.1093%2Fbioinformatics%2Fbtac075",
+            "booktitle": ""
+        },
+        {
+            "type": "inproceedings",
+            "id": "Alvin:2022Scalable",
+            "citekey": "Alvin:2022Scalable",
+            "collection": "name",
+            "title": "Scalable and Extensible Robinson-Foulds for Comparative\nPhylogenetics",
+            "year": "2022",
+            "booktitle": "21st IEEE International Workshop on High\nPerformance Computational Biology",
+            "author": [
+                {
+                    "name": "Alvin Chon, Huang Xiaoqiu, Oliver Eulenstein, Ali Jannesari."
+                }
+            ],
+            "link": "https://doi.org/10.1109/IPDPSW55747.2022.00041"
+        },
+        {
+            "type": "inproceedings",
+            "id": "Adithya:2022CPTAM",
+            "citekey": "Adithya:2022CPTAM",
+            "collection": "name",
+            "title": "CPTAM: Constituency Parse Tree Aggregation Method",
+            "year": "2022",
+            "booktitle": "SIAM International Conference on Data Mining (SDM 2022)",
+            "author": [
+                {
+                    "name": "Adithya Kulkarni, Nasim Sabetpour, Alexey Markin, Oliver Eulenstein, Qi Li"
+                }
+            ],
+            "link": "https://doi.org/10.1137/1.9781611977172.71"
+        },
+        {
+            "type": "article",
+            "id": "paszek2021taming",
+            "citekey": "paszek2021taming",
+            "collection": "name",
+            "title": "Taming the Duplication-Loss-Coalescence Model with Integer Linear Programming",
+            "year": "2021",
+            "author": [
+                {
+                    "name": "Paszek, Jaros\u0142aw"
+                },
+                {
+                    "name": "Alexey Markin"
+                },
+                {
+                    "name": "G\u00f3recki, Pawe\u0142"
+                },
+                {
+                    "name": "Eulenstein, Oliver"
+                }
+            ],
+            "journal": {
+                "name": "Journal of Computational Biology",
+                "volume": "28",
+                "number": "8",
+                "pages": "758--773"
+            },
+            "link": "https://doi.org/10.1089/cmb.2021.0011",
+            "booktitle": ""
+        },
+        {
+            "type": "inproceedings",
+            "id": "paszek2021novel",
+            "citekey": "paszek2021novel",
+            "collection": "name",
+            "title": "Novel genomic duplication models through integer linear programming",
+            "year": "2021",
+            "booktitle": "Proceedings of the 12th ACM Conference on Bioinformatics, Computational Biology, and Health Informatics",
+            "pages": "1--11",
+            "author": [
+                {
+                    "name": "Paszek, Jaros\u0142aw"
+                },
+                {
+                    "name": "Eulenstein, Oliver"
+                },
+                {
+                    "name": "G\u00f3recki, Pawe\u0142"
+                }
+            ],
+            "link": "https://doi.org/10.1145/3459930.3469549"
+        },
+        {
+            "type": "article",
+            "id": "markin2020quartet",
+            "citekey": "markin2020quartet",
+            "collection": "name",
+            "title": "Quartet-based inference methods are statistically consistent under the unified duplication-loss-coalescence model",
+            "year": "2020",
+            "author": [
+                {
+                    "name": "Markin, Alexey"
+                },
+                {
+                    "name": "Eulenstein, Oliver"
+                }
+            ],
+            "journal": {
+                "name": "Bioinformatics",
+                "volume": "37",
+                "number": "22",
+                "pages": "4064--4074"
+            },
+            "link": "https://doi.org/10.1093/bioinformatics/btab414",
+            "booktitle": ""
+        },
+        {
+            "type": "article",
+            "id": "nguyen2020finding",
+            "citekey": "nguyen2020finding",
+            "collection": "name",
+            "title": "Finding orthologous gene blocks in bacteria: the computational hardness of the problem and novel methods to address it",
+            "year": "2020",
+            "author": [
+                {
+                    "name": "Nguyen, Huy N"
+                },
+                {
+                    "name": "Markin, Alexey"
+                },
+                {
+                    "name": "Friedberg, Iddo"
+                },
+                {
+                    "name": "Eulenstein, Oliver"
+                }
+            ],
+            "journal": {
+                "name": "Bioinformatics",
+                "volume": "36",
+                "number": "Supplement_2",
+                "pages": "i668--i674"
+            },
+            "link": "https://doi.org/10.1093/bioinformatics/btaa794",
+            "booktitle": ""
+        },
+        {
+            "type": "article",
+            "id": "gorecki2020exact",
+            "citekey": "gorecki2020exact",
+            "collection": "name",
+            "title": "Exact median-tree inference for unrooted reconciliation costs",
+            "year": "2020",
+            "author": [
+                {
+                    "name": "G\u00f3recki, Pawe\u0142"
+                },
+                {
+                    "name": "Markin, Alexey"
+                },
+                {
+                    "name": "Eulenstein, Oliver"
+                }
+            ],
+            "journal": {
+                "name": "BMC Evolutionary Biology",
+                "volume": "20",
+                "number": "1",
+                "pages": "1--15"
+            },
+            "link": "https://doi.org/10.1186/s12862-020-01700-w",
+            "booktitle": ""
+        },
+        {
+            "type": "inproceedings",
+            "id": "ansarifar2020integer",
+            "citekey": "ansarifar2020integer",
+            "collection": "name",
+            "title": "Integer Linear Programming Formulation for the Unified Duplication-Loss-Coalescence Model",
+            "year": "2020",
+            "booktitle": "International Symposium on Bioinformatics Research and Applications",
+            "organization": "Springer",
+            "pages": "229--242",
+            "author": [
+                {
+                    "name": "Ansarifar, Javad"
+                },
+                {
+                    "name": "Markin, Alexey"
+                },
+                {
+                    "name": "G\u00f3recki, Pawe\u0142"
+                },
+                {
+                    "name": "Eulenstein, Oliver"
+                }
+            ],
+            "link": "http://dx.doi.org/10.1007/978-3-030-57821-3_20"
+        },
+        {
+            "type": "article",
+            "id": "gorecki2019unconstrained",
+            "citekey": "gorecki2019unconstrained",
+            "collection": "name",
+            "title": "The Unconstrained Diameters of the Duplication-Loss Cost and the Loss Cost",
+            "year": "2019",
+            "author": [
+                {
+                    "name": "G\u00f3recki, Pawe\u0142"
+                },
+                {
+                    "name": "Eulenstein, Oliver"
+                },
+                {
+                    "name": "Tiuryn, Jerzy"
+                }
+            ],
+            "journal": {
+                "name": "IEEE/ACM Transactions on Computational Biology and Bioinformatics",
+                "volume": "18",
+                "number": "6",
+                "pages": "2125--2135"
+            },
+            "link": "https://doi.org/10.1109/TCBB.2019.2919617",
+            "booktitle": ""
+        },
+        {
+            "type": "article",
+            "id": "tabaszewski2019consensus",
+            "citekey": "tabaszewski2019consensus",
+            "collection": "name",
+            "title": "Consensus of all Solutions for Intractable Phylogenetic Tree Inference",
+            "year": "2019",
+            "author": [
+                {
+                    "name": "Tabaszewski, Pawel"
+                },
+                {
+                    "name": "G\u00f3recki, Pawel"
+                },
+                {
+                    "name": "Markin, Alexey"
+                },
+                {
+                    "name": "Anderson, T"
+                },
+                {
+                    "name": "Eulenstein, Oliver"
+                }
+            ],
+            "journal": {
+                "name": "IEEE/ACM transactions on computational biology and bioinformatics",
+                "volume": "18",
+                "number": "1",
+                "pages": "149--161"
+            },
+            "link": "https://doi.org/10.1109/tcbb.2019.2947051",
+            "booktitle": ""
+        },
+        {
+            "type": "article",
+            "id": "nguyen2019tracing",
+            "citekey": "nguyen2019tracing",
+            "collection": "name",
+            "title": "Tracing the ancestry of operons in bacteria",
+            "year": "2019",
+            "author": [
+                {
+                    "name": "Nguyen, Huy N"
+                },
+                {
+                    "name": "Jain, Ashish"
+                },
+                {
+                    "name": "Eulenstein, Oliver"
+                },
+                {
+                    "name": "Friedberg, Iddo"
+                }
+            ],
+            "journal": {
+                "name": "Bioinformatics",
+                "volume": "35",
+                "number": "17",
+                "pages": "2998--3004"
+            },
+            "link": "https://doi.org/10.1093/bioinformatics/btz053",
+            "booktitle": ""
+        },
+        {
+            "type": "inproceedings",
+            "id": "markin2019robinson",
+            "citekey": "markin2019robinson",
+            "collection": "name",
+            "title": "Robinson-foulds reticulation networks",
+            "year": "2019",
+            "booktitle": "Proceedings of the 10th ACM International Conference on Bioinformatics, Computational Biology and Health Informatics",
+            "pages": "77--86",
+            "author": [
+                {
+                    "name": "Markin, Alexey"
+                },
+                {
+                    "name": "Anderson, Tavis K"
+                },
+                {
+                    "name": "Vadali, Venkata Sai Krishna Teja"
+                },
+                {
+                    "name": "Eulenstein, Oliver"
+                }
+            ],
+            "link": "https://doi.org/10.1145/3307339.3342151"
+        },
+        {
+            "type": "inproceedings",
+            "id": "markin2019consensus",
+            "citekey": "markin2019consensus",
+            "collection": "name",
+            "title": "Consensus clusters in robinson-foulds reticulation networks",
+            "year": "2019",
+            "booktitle": "19th International Workshop on Algorithms in Bioinformatics (WABI 2019)",
+            "organization": "Schloss Dagstuhl-Leibniz-Zentrum fuer Informatik",
+            "author": [
+                {
+                    "name": "Markin, Alexey"
+                },
+                {
+                    "name": "Eulenstein, Oliver"
+                }
+            ],
+            "link": "https://doi.org/10.4230/LIPIcs.WABI.2019.12"
+        },
+        {
+            "type": "inproceedings",
+            "id": "gorecki2019feasibility",
+            "citekey": "gorecki2019feasibility",
+            "collection": "name",
+            "title": "Feasibility Algorithms for the Duplication-Loss Cost",
+            "year": "2019",
+            "booktitle": "International Computing and Combinatorics Conference",
+            "organization": "Springer",
+            "pages": "206--218",
+            "author": [
+                {
+                    "name": "G\u00f3recki, Pawe\u0142"
+                },
+                {
+                    "name": "Markin, Alexey"
+                },
+                {
+                    "name": "Eulenstein, Oliver"
+                }
+            ],
+            "link": "https://doi.org/10.1007/978-3-030-26176-4_17"
+        },
+        {
+            "type": "inproceedings",
+            "id": "moon2019cluster",
+            "citekey": "moon2019cluster",
+            "collection": "name",
+            "title": "The Cluster Affinity Distance for Phylogenies",
+            "year": "2019",
+            "booktitle": "International Symposium on Bioinformatics Research and Applications",
+            "organization": "Springer",
+            "pages": "52--64",
+            "author": [
+                {
+                    "name": "Moon, Jucheol"
+                },
+                {
+                    "name": "Eulenstein, Oliver"
+                }
+            ],
+            "link": "https://doi.org/10.1007/978-3-030-20242-2_5"
+        },
+        {
+            "type": "article",
+            "id": "markin2018cophenetic",
+            "citekey": "markin2018cophenetic",
+            "collection": "name",
+            "title": "Cophenetic median trees",
+            "year": "2018",
+            "author": [
+                {
+                    "name": "Markin, Alexey"
+                },
+                {
+                    "name": "Eulenstein, Oliver"
+                }
+            ],
+            "journal": {
+                "name": "IEEE/ACM transactions on computational biology and bioinformatics",
+                "volume": "16",
+                "number": "5",
+                "pages": "1459--1470"
+            },
+            "link": "https://doi.org/10.1109/tcbb.2018.2870173",
+            "booktitle": ""
+        },
+        {
+            "type": "inproceedings",
+            "id": "tabaszewski2018phylogenetic",
+            "citekey": "tabaszewski2018phylogenetic",
+            "collection": "name",
+            "title": "Phylogenetic consensus for exact median trees",
+            "year": "2018",
+            "booktitle": "Proceedings of the 2018 ACM International Conference on Bioinformatics, Computational Biology, and Health Informatics",
+            "pages": "366--375",
+            "author": [
+                {
+                    "name": "Tabaszewski, Pawel"
+                },
+                {
+                    "name": "G\u00f3recki, Pawel"
+                },
+                {
+                    "name": "Eulenstein, Oliver"
+                }
+            ],
+            "link": "https://doi.org/10.1145/3233547.3233560"
+        },
+        {
+            "type": "inproceedings",
+            "id": "gorecki2018cophenetic",
+            "citekey": "gorecki2018cophenetic",
+            "collection": "name",
+            "title": "Cophenetic distances: A near-linear time algorithmic framework",
+            "year": "2018",
+            "booktitle": "International Computing and Combinatorics Conference",
+            "organization": "Springer",
+            "pages": "168--179",
+            "author": [
+                {
+                    "name": "G\u00f3recki, Pawe\u0142"
+                },
+                {
+                    "name": "Markin, Alexey"
+                },
+                {
+                    "name": "Eulenstein, Oliver"
+                }
+            ],
+            "link": "https://doi.org/10.1007/978-3-319-94776-1_15"
+        },
+        {
+            "type": "inproceedings",
+            "id": "markin2018solving",
+            "citekey": "markin2018solving",
+            "collection": "name",
+            "title": "Solving the gene duplication feasibility problem in linear time",
+            "year": "2018",
+            "booktitle": "International Computing and Combinatorics Conference",
+            "organization": "Springer",
+            "pages": "378--390",
+            "author": [
+                {
+                    "name": "Markin, Alexey"
+                },
+                {
+                    "name": "Vadali, Venkata Sai Krishna Teja"
+                },
+                {
+                    "name": "Eulenstein, Oliver"
+                }
+            ],
+            "link": "https://doi.org/10.1007/978-3-319-94776-1_32"
+        },
+        {
+            "type": "inproceedings",
+            "id": "moon2018cluster",
+            "citekey": "moon2018cluster",
+            "collection": "name",
+            "title": "Cluster matching distance for rooted phylogenetic trees",
+            "year": "2018",
+            "booktitle": "International Symposium on Bioinformatics Research and Applications",
+            "organization": "Springer",
+            "pages": "321--332",
+            "author": [
+                {
+                    "name": "Moon, Jucheol"
+                },
+                {
+                    "name": "Eulenstein, Oliver"
+                }
+            ],
+            "link": "https://doi.org/10.1007/978-3-319-94968-0_31"
+        },
+        {
+            "type": "article",
+            "id": "gorecki2017bijective",
+            "citekey": "gorecki2017bijective",
+            "collection": "name",
+            "title": "Bijective diameters of gene tree parsimony costs",
+            "year": "2017",
+            "author": [
+                {
+                    "name": "G\u00f3recki, Pawe\u0142"
+                },
+                {
+                    "name": "Eulenstein, Oliver"
+                }
+            ],
+            "journal": {
+                "name": "IEEE/ACM Transactions on Computational Biology and Bioinformatics",
+                "volume": "15",
+                "number": "5",
+                "pages": "1723--1727"
+            },
+            "link": "https://doi.org/10.1109/tcbb.2017.2735968",
+            "booktitle": ""
+        },
+        {
+            "type": "article",
+            "id": "markin2017efficient",
+            "citekey": "markin2017efficient",
+            "collection": "name",
+            "title": "Efficient local search for Euclidean path-difference median trees",
+            "year": "2017",
+            "author": [
+                {
+                    "name": "Markin, Alexey"
+                },
+                {
+                    "name": "Eulenstein, Oliver"
+                }
+            ],
+            "journal": {
+                "name": "IEEE/ACM Transactions on Computational Biology and Bioinformatics",
+                "volume": "16",
+                "number": "4",
+                "pages": "1374--1385"
+            },
+            "link": "https://doi.org/10.1109/tcbb.2017.2763137",
+            "booktitle": ""
+        },
+        {
+            "type": "article",
+            "id": "markin2017computing",
+            "citekey": "markin2017computing",
+            "collection": "name",
+            "title": "Computing Manhattan path-difference median trees: A practical local search approach",
+            "year": "2017",
+            "author": [
+                {
+                    "name": "Markin, Alexey"
+                },
+                {
+                    "name": "Eulenstein, Oliver"
+                }
+            ],
+            "journal": {
+                "name": "IEEE/ACM Transactions on Computational Biology and Bioinformatics",
+                "volume": "16",
+                "number": "4",
+                "pages": "1063--1076"
+            },
+            "link": "https://doi.org/10.1109/TCBB.2017.2718507",
+            "booktitle": ""
+        },
+        {
+            "type": "article",
+            "id": "moon2017synthesizing",
+            "citekey": "moon2017synthesizing",
+            "collection": "name",
+            "title": "Synthesizing large-scale species trees using the strict consensus approach",
+            "year": "2017",
+            "author": [
+                {
+                    "name": "Moon, Jucheol"
+                },
+                {
+                    "name": "Eulenstein, Oliver"
+                }
+            ],
+            "journal": {
+                "name": "Journal of bioinformatics and computational biology",
+                "volume": "15",
+                "number": "03",
+                "pages": "1740002"
+            },
+            "link": "https://doi.org/10.1142/s0219720017400029",
+            "booktitle": ""
+        },
+        {
+            "type": "inproceedings",
+            "id": "markin2017cophenetic",
+            "citekey": "markin2017cophenetic",
+            "collection": "name",
+            "title": "Cophenetic median trees under the manhattan distance",
+            "year": "2017",
+            "booktitle": "Proceedings of the 8th ACM International Conference on Bioinformatics, Computational Biology, and Health Informatics",
+            "pages": "194--202",
+            "author": [
+                {
+                    "name": "Markin, Alexey"
+                },
+                {
+                    "name": "Eulenstein, Oliver"
+                }
+            ],
+            "link": "https://doi.org/10.1145/3107411.3107443"
+        },
+        {
+            "type": "inproceedings",
+            "id": "gorecki2017phylogenetic",
+            "citekey": "gorecki2017phylogenetic",
+            "collection": "name",
+            "title": "Phylogenetic Tree Reconciliation: Mean Values for Fixed Gene Trees",
+            "year": "2017",
+            "booktitle": "International Symposium on Bioinformatics Research and Applications",
+            "organization": "Springer",
+            "pages": "234--245",
+            "author": [
+                {
+                    "name": "G\u00f3recki, Pawe\u0142"
+                },
+                {
+                    "name": "Markin, Alexey"
+                },
+                {
+                    "name": "Mykowiecka, Agnieszka"
+                },
+                {
+                    "name": "Paszek, Jaros\u0142aw"
+                },
+                {
+                    "name": "Eulenstein, Oliver"
+                }
+            ],
+            "link": "https://doi.org/10.1007/978-3-319-59575-7_21"
+        },
+        {
+            "type": "article",
+            "id": "gorecki2016unconstrained",
+            "citekey": "gorecki2016unconstrained",
+            "collection": "name",
+            "title": "Unconstrained diameters for deep coalescence",
+            "year": "2016",
+            "author": [
+                {
+                    "name": "G\u00f3recki, Pawe\u0142"
+                },
+                {
+                    "name": "Paszek, Jaros\u0142aw"
+                },
+                {
+                    "name": "Eulenstein, Oliver"
+                }
+            ],
+            "journal": {
+                "name": "IEEE/ACM Transactions on Computational Biology and Bioinformatics",
+                "volume": "14",
+                "number": "5",
+                "pages": "1002--1012"
+            },
+            "link": "https://doi.org/10.1109/TCBB.2016.2520937",
+            "booktitle": ""
+        },
+        {
+            "type": "article",
+            "id": "moon2016consensus",
+            "citekey": "moon2016consensus",
+            "collection": "name",
+            "title": "Consensus properties and their large-scale applications for the gene duplication problem",
+            "year": "2016",
+            "author": [
+                {
+                    "name": "Moon, Jucheol"
+                },
+                {
+                    "name": "Lin, Harris T"
+                },
+                {
+                    "name": "Eulenstein, Oliver"
+                }
+            ],
+            "journal": {
+                "name": "Journal of bioinformatics and computational biology",
+                "volume": "14",
+                "number": "03",
+                "pages": "1642005"
+            },
+            "link": "https://doi.org/10.1142/s0219720016420051",
+            "booktitle": ""
+        },
+        {
+            "type": "inproceedings",
+            "id": "markin2016manhattan",
+            "citekey": "markin2016manhattan",
+            "collection": "name",
+            "title": "Manhattan path-difference median trees",
+            "year": "2016",
+            "booktitle": "Proceedings of the 7th ACM International Conference on Bioinformatics, Computational Biology, and Health Informatics",
+            "pages": "404--413",
+            "author": [
+                {
+                    "name": "Markin, Alexey"
+                },
+                {
+                    "name": "Eulenstein, Oliver"
+                }
+            ],
+            "link": "https://doi.org/10.1145/2975167.2975209"
+        },
+        {
+            "type": "inproceedings",
+            "id": "moon2016robinson",
+            "citekey": "moon2016robinson",
+            "collection": "name",
+            "title": "Robinson-Foulds Median Trees: A Clique-based Heuristic",
+            "year": "2016",
+            "booktitle": "Proceedings of the 7th ACM International Conference on Bioinformatics, Computational Biology, and Health Informatics",
+            "pages": "374--383",
+            "author": [
+                {
+                    "name": "Moon, Jucheol"
+                },
+                {
+                    "name": "Eulenstein, Oliver"
+                }
+            ],
+            "link": "https://doi.org/10.1145/2975167.2975206"
+        },
+        {
+            "type": "inproceedings",
+            "id": "moon2016highly",
+            "citekey": "moon2016highly",
+            "collection": "name",
+            "title": "Highly bi-connected subgraphs for computational protein function annotation",
+            "year": "2016",
+            "booktitle": "International Computing and Combinatorics Conference",
+            "organization": "Springer",
+            "pages": "573--584",
+            "author": [
+                {
+                    "name": "Moon, Jucheol"
+                },
+                {
+                    "name": "Friedberg, Iddo"
+                },
+                {
+                    "name": "Eulenstein, Oliver"
+                }
+            ],
+            "link": "https://doi.org/10.1007/978-3-319-42634-1_46"
+        },
+        {
+            "type": "inproceedings",
+            "id": "markin2016path",
+            "citekey": "markin2016path",
+            "collection": "name",
+            "title": "Path-difference median trees",
+            "year": "2016",
+            "booktitle": "International Symposium on Bioinformatics Research and Applications",
+            "organization": "Springer",
+            "pages": "211--223",
+            "author": [
+                {
+                    "name": "Markin, Alexey"
+                },
+                {
+                    "name": "Eulenstein, Oliver"
+                }
+            ],
+            "link": "https://doi.org/10.1007/978-3-319-38782-6_18"
+        },
+        {
+            "type": "inproceedings",
+            "id": "lin2015consensus",
+            "citekey": "lin2015consensus",
+            "collection": "name",
+            "title": "Consensus properties of the gene duplication problem for enhanced phylogenetic inference",
+            "year": "2015",
+            "booktitle": "Proceedings of the International Conference on Bioinformatics and Computational Biology. Curran Associates, Inc., Red Hook, New York, United States",
+            "pages": "131--136",
+            "author": [
+                {
+                    "name": "Lin, H"
+                },
+                {
+                    "name": "Moon, Jucheol"
+                },
+                {
+                    "name": "Eulenstein, Oliver"
+                }
+            ],
+            "link": "https://www.researchgate.net/publication/282682943_Consensus_properties_of_the_gene_duplication_problem_for_enhanced_phylogenetic_inference"
+        },
+        {
+            "type": "inproceedings",
+            "id": "gorecki2014duplication",
+            "citekey": "gorecki2014duplication",
+            "collection": "name",
+            "title": "Duplication cost diameters",
+            "year": "2014",
+            "booktitle": "International Symposium on Bioinformatics Research and Applications",
+            "organization": "Springer",
+            "pages": "212--223",
+            "author": [
+                {
+                    "name": "G\u00f3recki, Pawe\u0142"
+                },
+                {
+                    "name": "Paszek, Jaros\u0142aw"
+                },
+                {
+                    "name": "Eulenstein, Oliver"
+                }
+            ],
+            "link": "https://doi.org/10.1007/978-3-319-08171-7_19"
+        },
+        {
+            "type": "article",
+            "id": "gorecki2014gene",
+            "citekey": "gorecki2014gene",
+            "collection": "name",
+            "title": "Gene tree diameter for deep coalescence",
+            "year": "2014",
+            "author": [
+                {
+                    "name": "G\u00f3recki, Pawe\u0142"
+                },
+                {
+                    "name": "Eulenstein, Oliver"
+                }
+            ],
+            "journal": {
+                "name": "IEEE/ACM Transactions on Computational Biology and Bioinformatics",
+                "volume": "12",
+                "number": "1",
+                "pages": "155--165"
+            },
+            "link": "https://doi.org/10.1109/tcbb.2014.2351795",
+            "booktitle": ""
+        },
+        {
+            "type": "inproceedings",
+            "id": "gorecki2014refining",
+            "citekey": "gorecki2014refining",
+            "collection": "name",
+            "title": "Refining discordant gene trees",
+            "year": "2014",
+            "booktitle": "BMC bioinformatics",
+            "volume": "15",
+            "number": "13",
+            "organization": "BioMed Central",
+            "pages": "1--10",
+            "author": [
+                {
+                    "name": "G\u00f3recki, Pawel"
+                },
+                {
+                    "name": "Eulenstein, Oliver"
+                }
+            ],
+            "link": "https://doi.org/10.1186/1471-2105-15-s13-s3"
+        },
+        {
+            "type": "article",
+            "id": "gorecki2014drml",
+            "citekey": "gorecki2014drml",
+            "collection": "name",
+            "title": "DrML: probabilistic modeling of gene duplications",
+            "year": "2014",
+            "author": [
+                {
+                    "name": "G\u00f3recki, Pawe\u0142"
+                },
+                {
+                    "name": "Eulenstein, Oliver"
+                }
+            ],
+            "journal": {
+                "name": "Journal of Computational Biology",
+                "volume": "21",
+                "number": "1",
+                "pages": "89--98"
+            },
+            "link": "https://doi.org/10.1089%2Fcmb.2013.0078",
+            "booktitle": ""
+        },
+        {
+            "type": "inproceedings",
+            "id": "gorecki2014unconstrained",
+            "citekey": "gorecki2014unconstrained",
+            "collection": "name",
+            "title": "Unconstrained gene tree diameters for deep coalescence",
+            "year": "2014",
+            "booktitle": "Proceedings of the 5th ACM Conference on Bioinformatics, Computational Biology, and Health Informatics",
+            "pages": "114--121",
+            "author": [
+                {
+                    "name": "G\u00f3recki, Pawe\u0142"
+                },
+                {
+                    "name": "Paszek, Jaros\u0142aw"
+                },
+                {
+                    "name": "Eulenstein, Oliver"
+                }
+            ],
+            "link": "https://doi.org/10.1145/2649387.2649410"
+        },
+        {
+            "type": "article",
+            "id": "gorecki2013maximizing",
+            "citekey": "gorecki2013maximizing",
+            "collection": "name",
+            "title": "Maximizing deep coalescence cost",
+            "year": "2013",
+            "author": [
+                {
+                    "name": "Gorecki, Pawel"
+                },
+                {
+                    "name": "Eulenstein, Oliver"
+                }
+            ],
+            "journal": {
+                "name": "IEEE/ACM transactions on computational biology and bioinformatics",
+                "volume": "11",
+                "number": "1",
+                "pages": "231--242"
+            },
+            "link": "https://doi.org/10.1109/TCBB.2013.144",
+            "booktitle": ""
+        },
+        {
+            "type": "article",
+            "id": "gorecki2013unrooted",
+            "citekey": "gorecki2013unrooted",
+            "collection": "name",
+            "title": "Unrooted tree reconciliation: A unified approach",
+            "year": "2013",
+            "author": [
+                {
+                    "name": "G\u00f3recki, Pawel"
+                },
+                {
+                    "name": "Eulenstein, Oliver"
+                },
+                {
+                    "name": "Tiuryn, Jerzy"
+                }
+            ],
+            "journal": {
+                "name": "IEEE/ACM transactions on computational biology and bioinformatics",
+                "volume": "10",
+                "number": "2",
+                "pages": "522--536"
+            },
+            "link": "https://doi.org/10.1109/tcbb.2013.22",
+            "booktitle": ""
+        },
+        {
+            "type": "inproceedings",
+            "id": "chang2013exact",
+            "citekey": "chang2013exact",
+            "collection": "name",
+            "title": "Exact solutions for classic gene tree parsimony problems",
+            "year": "2013",
+            "booktitle": "Proc. of the 5th Int. Conf. on Bioinformatics and Computational Biology",
+            "organization": "Citeseer",
+            "pages": "225--230",
+            "author": [
+                {
+                    "name": "Chang, Wen-Chieh"
+                },
+                {
+                    "name": "Wehe, Andr\u00e9"
+                },
+                {
+                    "name": "G\u00f3recki, Pawe\u0142"
+                },
+                {
+                    "name": "Eulenstein, Oliver"
+                }
+            ],
+            "link": "https://www.mimuw.edu.pl/~gorecki/pubpdf/BICOB39.pdf"
+        },
+        {
+            "type": "book",
+            "id": "cai2013bioinformatics",
+            "citekey": "cai2013bioinformatics",
+            "collection": "name",
+            "title": "Bioinformatics Research and Applications: 9th International Symposium, ISBRA 2013, Charlotte, NC, USA, May 20-22, 2013, Proceedings",
+            "year": "2013",
+            "volume": "7875",
+            "author": [
+                {
+                    "name": "Cai, Zhipeng"
+                },
+                {
+                    "name": "Eulenstein, Oliver"
+                },
+                {
+                    "name": "Janies, Daniel"
+                },
+                {
+                    "name": "Schwartz, Daniel"
+                }
+            ],
+            "publisher": {
+                "name": "Springer"
+            },
+            "link": "http://dx.doi.org/10.1007/978-3-642-38036-5",
+            "booktitle": ""
+        },
+        {
+            "type": "inproceedings",
+            "id": "goreckialgorithms",
+            "citekey": "goreckialgorithms",
+            "collection": "name",
+            "title": "Algorithms for Unrooted Gene Trees with Polytomies",
+            "year": "2013",
+            "booktitle": "Short Abstract Proceedings of ISBRA:86-95",
+            "author": [
+                {
+                    "name": "G\u00f3recki, Pawe\u0142"
+                },
+                {
+                    "name": "Eulenstein, Oliver"
+                }
+            ],
+            "link": "https://www.mimuw.edu.pl/~gorecki/pubpdf/ISBRA2013_unrootedpolytomies.pdf"
+        },
+        {
+            "type": "inproceedings",
+            "id": "shradermathematical",
+            "citekey": "shradermathematical",
+            "collection": "name",
+            "title": "Mathematical Properties and Normalization of the Gene Duplication Cost",
+            "year": "2013",
+            "booktitle": "Short Abstract Proceedings of ISBRA:92-96",
+            "author": [
+                {
+                    "name": "Bryan Shrader, Andr\u00e9 Wehe, Oliver Eulenstein"
+                }
+            ],
+            "link": "#"
+        },
+        {
+            "type": "article",
+            "id": "wehe2012efficient",
+            "citekey": "wehe2012efficient",
+            "collection": "name",
+            "title": "Efficient algorithms for knowledge-enhanced supertree and supermatrix phylogenetic problems",
+            "year": "2012",
+            "author": [
+                {
+                    "name": "Wehe, Andr\u00e9"
+                },
+                {
+                    "name": "Burleigh, J Gordon"
+                },
+                {
+                    "name": "Eulenstein, Oliver"
+                }
+            ],
+            "journal": {
+                "name": "IEEE/ACM transactions on computational biology and bioinformatics",
+                "volume": "10",
+                "number": "6",
+                "pages": "1432--1441"
+            },
+            "link": "https://doi.org/10.1109/TCBB.2012.162",
+            "booktitle": ""
+        },
+        {
+            "type": "inproceedings",
+            "id": "gorecki2012algorithms",
+            "citekey": "gorecki2012algorithms",
+            "collection": "name",
+            "title": "Algorithms: simultaneous error-correction and rooting for gene tree reconciliation and the gene duplication problem",
+            "year": "2012",
+            "booktitle": "BMC bioinformatics",
+            "volume": "13",
+            "number": "10",
+            "organization": "Springer",
+            "pages": "1--11",
+            "author": [
+                {
+                    "name": "G\u00f3recki, Pawel"
+                },
+                {
+                    "name": "Eulenstein, Oliver"
+                }
+            ],
+            "link": "https://doi.org/10.1186/1471-2105-13-s10-s14"
+        },
+        {
+            "type": "inproceedings",
+            "id": "chang2012exploring",
+            "citekey": "chang2012exploring",
+            "collection": "name",
+            "title": "Exploring biological interaction networks with tailored weighted quasi-bicliques",
+            "year": "2012",
+            "booktitle": "BMC bioinformatics",
+            "volume": "13",
+            "number": "10",
+            "organization": "BioMed Central",
+            "pages": "1--9",
+            "author": [
+                {
+                    "name": "Chang, Wen-Chieh"
+                },
+                {
+                    "name": "Vakati, Sudheer"
+                },
+                {
+                    "name": "Krause, Roland"
+                },
+                {
+                    "name": "Eulenstein, Oliver"
+                }
+            ],
+            "link": "https://doi.org/10.1186%2F1471-2105-13-S10-S16"
+        },
+        {
+            "type": "article",
+            "id": "chaudhari2012efficient",
+            "citekey": "chaudhari2012efficient",
+            "collection": "name",
+            "title": "Efficient algorithms for rapid error correction for gene tree reconciliation using gene duplications, gene duplication and loss, and deep coalescence",
+            "year": "2012",
+            "author": [
+                {
+                    "name": "Chaudhari, R"
+                },
+                {
+                    "name": "Burleigh, GJ"
+                },
+                {
+                    "name": "Eulenstein, O"
+                }
+            ],
+            "journal": {
+                "name": "BMC Bioinformatics",
+                "volume": "13",
+                "number": "Suppl 10",
+                "pages": "S11"
+            },
+            "link": "https://doi.org/10.1186/1471-2105-13-s10-s11",
+            "booktitle": ""
+        },
+        {
+            "type": "inproceedings",
+            "id": "lin2012consensus",
+            "citekey": "lin2012consensus",
+            "collection": "name",
+            "title": "Consensus properties for the deep coalescence problem and their application for scalable tree search",
+            "year": "2012",
+            "booktitle": "BMC bioinformatics",
+            "volume": "13",
+            "number": "10",
+            "organization": "BioMed Central",
+            "pages": "1--13",
+            "author": [
+                {
+                    "name": "Lin, Harris T"
+                },
+                {
+                    "name": "Burleigh, J Gordon"
+                },
+                {
+                    "name": "Eulenstein, Oliver"
+                }
+            ],
+            "link": "https://doi.org/10.1186%2F1471-2105-13-S10-S12"
+        },
+        {
+            "type": "article",
+            "id": "baumann2012pulls",
+            "citekey": "baumann2012pulls",
+            "collection": "name",
+            "title": "Who Pulls the Strings Behind the Scenes? Analysing Power Structures of International Media Finance Networks with Innovative Graph-Based Methods",
+            "year": "2012",
+            "author": [
+                {
+                    "name": "Baumann, Sabine"
+                },
+                {
+                    "name": "Eulenstein, Oliver"
+                }
+            ],
+            "link": "https://ensr.oii.ox.ac.uk/ipp-conference/sites/ipp/files/documents/Paper_Baumann_Eulenstein_OxfordPolitics_2012.pdf",
+            "booktitle": "Internet, Politics, Policy: Big Data, Big Challenges 2012 pg 21--22"
+        },
+        {
+            "type": "inproceedings",
+            "id": "wehe2012algorithms",
+            "citekey": "wehe2012algorithms",
+            "collection": "name",
+            "title": "Algorithms for knowledge-enhanced supertrees",
+            "year": "2012",
+            "booktitle": "International Symposium on Bioinformatics Research and Applications",
+            "organization": "Springer",
+            "pages": "263--274",
+            "author": [
+                {
+                    "name": "Wehe, Andr\u00e9"
+                },
+                {
+                    "name": "Burleigh, J Gordon"
+                },
+                {
+                    "name": "Eulenstein, Oliver"
+                }
+            ],
+            "link": "https://doi.org/10.1007/978-3-642-30191-9_25"
+        }
+    ]
+}

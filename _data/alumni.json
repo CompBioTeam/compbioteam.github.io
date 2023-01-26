@@ -1,0 +1,16 @@
+{
+    "members": [
+                {
+                  "name": "Oliver Eulenstein",
+                  "photo": "/assets/images/team/oeulenst.jpg",
+                  "info": "Ph.D.",
+                  "website": "#",
+                  "email": "oeulenst@iastate.edu",
+                  "interests": ["Machine Learning", "Deep Learning", "Bayesian Models"],
+                  "about": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Donec a diam lectus.",
+                  "github": "#"
+                }
+    ]
+  }
+  
+  

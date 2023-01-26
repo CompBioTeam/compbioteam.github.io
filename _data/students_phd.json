@@ -1,0 +1,75 @@
+{
+  "members": [
+              {
+                "name": "Sriram Vijendran",
+                "photo": "/assets/images/team/sriramv.png",
+                "info": "Ph.D.",
+                "website": "https://sriram98v.github.io/cv",
+                "email": "sriramv@iastate.edu",
+                "interests": ["Machine Learning", "Deep Learning", "Bayesian Models"],
+                "about": "Bayesian modeling and Deep Learning",
+                "github":"https://github.com/sriram98v"
+              },
+              {
+                "name": "Siddhant Grover",
+                "photo": "/assets/images/team/grover16.jpeg",
+                "info": "Ph.D.",
+                "website": "#",
+                "email": "grover16@iastate.edu",
+                "interests": ["Algorithms"],
+                "about": "I am currently working on developing algorithms towards existing phylogenetic measures on trees and networks. My research is aimed towards developing algorithmic tools for diversity distribution and selection",
+                "github":"#"
+              },
+              {
+                "name": "Sanket Wagle",
+                "photo": "/assets/images/team/swagle.jpeg",
+                "info": "Ph.D.",
+                "website": "",
+                "email": "swagle@iastate.edu",
+                "interests": ["Phylogenetics","Algorithms"],
+                "about": "Currently working on designing algorithms to efficiently compare phylogenetic trees and formulate new metrics to represent evolutionary processes",
+                "github":"https://github.com/swagle8987"
+              },
+              {
+                "name": "Adele Haghighat Hoseini",
+                "photo": "/assets/images/team/Adele_Photo.jpeg",
+                "info": "Ph.D.",
+                "website": "",
+                "email": "ahoseini@iastate.edu",
+                "interests": ["Machine Learning","Computational Biology","Bioinformatics"],
+                "about": "My research primarily focuses on applying a novel technique of utilizing protein structure predicted by AlphaFold for classifying influenza-A viruses by using supervised and unsupervised machine learning techniques. ",
+                "github":"#"
+              },
+              {
+                "name": "Srijita Chandra",
+                "photo": "/assets/images/team/srijitac.jpg",
+                "info": "Ph.D.",
+                "website": "",
+                "email": "srijitac@iastate.edu",
+                "interests": ["Computational Biology","Bioinformatics","Machine Learning"],
+                "about": "Currently working on cluster analysis to detect and monitor animal health threats",
+                "github":"https://github.com/srijita0814"
+              },
+              {
+                "name": "Priyanka Banerjee",
+                "photo": "/assets/images/team/priyanka_banerjee.jpg",
+                "info": "Ph.D.",
+                "website": "",
+                "email": "pb11@iastate.edu",
+                "interests": ["Bioinformatics","Machine Learning", "NLP"],
+                "about": "My research utilizes machine learning and language models to understand genomic data.",
+                "github":"https://github.com/priyamayur"
+              },
+              {
+                "name": "Jodi Calwood",
+                "photo": "/assets/images/team/jodi_calwood.jpg",
+                "info": "Ph.D.",
+                "website": "",
+                "email": "pb11@iastate.edu",
+                "interests": ["Bioinformatics"],
+                "about": "Originally from PG county Maryland, Jodi is pursuing a PhD in the bioinformatics and computational biology (BCB) program under the guidance of Dr. Eulenstein and Dr. Kelley starting Fall 2021. She completed a B.S in Bioengineering at Walla Walla University in 2017 and a Masters in Agriculture Plant Science at Delaware State University in 2019. She is passionate about integrating technology with agriculture, her research focuses on developing predictive piplines for protein interaction, atomated phenotyping, and machine learning applications in agriculture plant science. In her spare time, she enjoys podcasts, reading, tabletop RPG’s, and videogames.",
+                "github":"https://github.com/JodC58972"
+              }
+  ]
+}
+

@@ -1,0 +1,9 @@
+{
+    "name":"Algorithmic Sandbox Team @ ISU",
+    "pages": [
+        {"name": "Home", "url": "/"},
+        {"name": "Our Team", "url": "/team"},
+        {"name": "Projects", "url": "/projects"},
+        {"name": "Publications", "url": "/publications"}
+	]
+}
