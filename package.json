@@ -4,7 +4,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "env NODE_ENV=production npx eleventy --pathprefix 'website'"
+    "build": "env NODE_ENV=production npx eleventy"
   },
   "repository": {
     "type": "git",
