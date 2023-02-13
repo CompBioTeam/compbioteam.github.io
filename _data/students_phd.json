@@ -11,6 +11,16 @@
                 "github":"https://github.com/sriram98v"
               },
               {
+                "name": "Priyanka Banerjee",
+                "photo": "/assets/images/team/priyanka_banerjee.jpg",
+                "info": "Ph.D.",
+                "website": "",
+                "email": "pb11@iastate.edu",
+                "interests": ["Bioinformatics","Machine Learning", "NLP"],
+                "about": "My research utilizes machine learning and language models to understand genomic data.",
+                "github":"https://github.com/priyamayur"
+              },
+              {
                 "name": "Siddhant Grover",
                 "photo": "/assets/images/team/grover16.jpeg",
                 "info": "Ph.D.",
@@ -31,16 +41,6 @@
                 "github":"https://github.com/swagle8987"
               },
               {
-                "name": "Adele Haghighat Hoseini",
-                "photo": "/assets/images/team/Adele_Photo.jpeg",
-                "info": "Ph.D.",
-                "website": "",
-                "email": "ahoseini@iastate.edu",
-                "interests": ["Machine Learning","Computational Biology","Bioinformatics"],
-                "about": "My research primarily focuses on applying a novel technique of utilizing protein structure predicted by AlphaFold for classifying influenza-A viruses by using supervised and unsupervised machine learning techniques. ",
-                "github":"#"
-              },
-              {
                 "name": "Srijita Chandra",
                 "photo": "/assets/images/team/srijitac.jpg",
                 "info": "Ph.D.",
@@ -50,16 +50,7 @@
                 "about": "Currently working on cluster analysis to detect and monitor animal health threats",
                 "github":"https://github.com/srijita0814"
               },
-              {
-                "name": "Priyanka Banerjee",
-                "photo": "/assets/images/team/priyanka_banerjee.jpg",
-                "info": "Ph.D.",
-                "website": "",
-                "email": "pb11@iastate.edu",
-                "interests": ["Bioinformatics","Machine Learning", "NLP"],
-                "about": "My research utilizes machine learning and language models to understand genomic data.",
-                "github":"https://github.com/priyamayur"
-              },
+              
               {
                 "name": "Jodi Calwood",
                 "photo": "/assets/images/team/jodi_calwood.jpg",

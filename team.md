@@ -4,14 +4,14 @@ title: Our Team
 ---
 
 <ul class="team-nav">
-    <a class="anchor" href="#Staff">Staff</a>
+    <a class="anchor" href="#Faculty">Faculty</a>
     <a class="anchor" href="#phd_s">Ph.D. Students</a>
     <a class="anchor" href="#ms_s">M.S. Students</a>
     <a class="anchor" href="#alumni">Alumni</a>
     <a class="anchor" href="#colab">Collaborators</a>
 </ul>
 
-<h2 id="Staff" style="scroll-offset">Staff</h2>
+<h2 id="Faculty" style="scroll-offset">Faculty</h2>
 <div>
 {%for member in staff.members%}
 <div class="player">

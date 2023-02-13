@@ -1,14 +1,14 @@
 {
     "members": [
                 {
-                  "name": "Oliver Eulenstein",
-                  "photo": "/assets/images/team/oeulenst.jpg",
-                  "info": "Ph.D.",
-                  "website": "#",
-                  "email": "oeulenst@iastate.edu",
+                  "name": "Kumara Sri Harsha Vajjhala",
+                  "photo": "/assets/images/team/Harsha_dog_photo.jpeg",
+                  "info": "M.S.",
+                  "website": "https://vksriharsha.github.io/",
+                  "email": "harshavk@iastate.edu",
                   "interests": ["Machine Learning", "Deep Learning", "Bayesian Models"],
-                  "about": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Donec a diam lectus.",
-                  "github": "#"
+                  "about": "My research area is the application of Machine Learning for genetic data. I work on applying supervised and un-supervised machine learning techniques on RNA-seq data, as well as developing MetaOmGraph - an open source java based software package for genetic data analysis",
+                  "github": "https://github.com/vksriharsha"
                 }
     ]
   }
