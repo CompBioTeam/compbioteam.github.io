@@ -3,7 +3,12 @@ layout: layout.njk
 title: Our Team
 ---
 ## Publications
+{% assign variable = 0 %}
 {%for member in pubs.records%}
+{%if member.year != variable%}
+{% assign variable = member.year%}
+<div class="h4 flex flex-center ma1" id="{{member.year}}">---{{member.year}}---</div>
+{%endif%}
 <div class="card">
 <div class="card-content">
 <div class="card-header">
