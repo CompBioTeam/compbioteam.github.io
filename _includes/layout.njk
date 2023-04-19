@@ -22,9 +22,14 @@ title: Hello World
     <main class="header-margin">
         <div class="container">
         <div class="columns flex-center">
+
           <div class="column col-6 col-md-12 pa2 bg-blur full-shadow rounded-corner">
+
               {{ content | safe }}
+
           </div>
+        {% include "news.njk" %}
+
         </div>
         </div>
         </div>
