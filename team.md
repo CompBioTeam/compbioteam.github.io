@@ -4,11 +4,11 @@ title: Our Team
 ---
 
 <ul class="team-nav">
-    <a class="anchor" href="#Faculty">Faculty</a>
-    <a class="anchor" href="#phd_s">Ph.D. Students</a>
-    <a class="anchor" href="#ms_s">M.S. Students</a>
-    <a class="anchor" href="#alumni">Alumni</a>
-    <a class="anchor" href="#colab">Collaborators</a>
+    <a class="anchor ma05" href="#Faculty">Faculty</a>
+    <a class="anchor ma05" href="#phd_s">Ph.D. Students</a>
+    <a class="anchor ma05" href="#ms_s">M.S. Students</a>
+    <a class="anchor ma05" href="#alumni">Alumni</a>
+    <a class="anchor ma05" href="#colab">Collaborators</a>
 </ul>
 
 <h2 id="Faculty" style="scroll-offset">Faculty</h2>
