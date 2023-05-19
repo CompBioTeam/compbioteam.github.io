@@ -1,10 +1,14 @@
 {
     "members": [
                 {
-                  "name": "Oliver Eulenstein",
-                  "photo": "/assets/images/team/oeulenst.jpg",
-                  "website": "#",
-                  "email": "oeulenst@iastate.edu"
+                  "name": "Tavis Anderson",
+                  "photo": "/assets/images/team/tavis.jpeg",
+                  "info": "Ph.D.",
+                  "website": "https://anderson-lab.com/",
+                  "email": "tavis.anderson@usda.gov"
+                  "interests": ["Genomic Epidemiology", "Evolution", "Infectious Disease", "Influenza A"],
+                  "about": "Research Biologist at the National Animal Disease Center, USDA-ARS"
+                  "github":"https://github.com/flu-crew/"
                 }
     ]
   }
