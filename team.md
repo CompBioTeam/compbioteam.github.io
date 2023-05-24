@@ -120,7 +120,7 @@ title: Our Team
 {%endfor%}
 </div>
 
-<!-- <h3 id="colab" style="scroll-offset">Colaborators</h3>
+<h3 id="colab" style="scroll-offset">Colaborators</h3>
 <div>
 {%for member in colab.members%}
 <div class="player">
@@ -139,6 +139,6 @@ title: Our Team
 </div>
 </div>
 {%endfor%}
-</div> -->
+</div>
 
 
