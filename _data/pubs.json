@@ -8,6 +8,37 @@
     "records": [
         {
             "type": "article",
+            "id": "10.1007/978-3-031-36911-7_9",
+            "citekey": "10.1007/978-3-031-36911-7_9",
+            "collection": "Comparative Genomics",
+            "title": "The Asymmetric Cluster Affinity Cost",
+            "year": "2023",
+            "author": [
+                {
+                    "name": "Wagle, Sanket"
+                },
+                {
+                    "name": "Markin, Alexey"
+                },
+                {
+                    "name": "G\u00f3recki, Pawel"
+                },
+                {
+                    "name": "Anderson, Tavis K"
+                },
+                {
+                    "name": "Eulenstein, Oliver"
+                }
+            ],
+            "journal": {
+                "name": "Comparative Genomics",
+                "pages": "131--145"
+            },
+            "link": "https://doi.org/10.1007/978-3-031-36911-7_9",
+            "booktitle": ""
+        },
+        {
+            "type": "article",
             "id": "markin2022rf",
             "citekey": "markin2022rf",
             "collection": "name",
