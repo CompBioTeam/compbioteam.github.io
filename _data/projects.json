@@ -5,6 +5,12 @@
                     "photo": "/assets/images/projects/MOG.png",
                     "github": "https://github.com/eswlab/MetaOmGraph",
                     "about": "MetaOmGraph (MOG) is a Java software to interactively explore and visualize large datasets.MOG is user-centered software, designed for all types of data, but specialized for expression data. It combines the ability to analyze very large data sets in real time with metadata analysis, statistical analysis, list-making, and graphing capabilities."
+                  },
+                  {
+                    "name": "iGTP",
+                    "photo": "/assets/images/projects/iGTP.png",
+                    "github": "https://github.com/CompBioTeam/iGTP",
+                    "about": "iGTP is a software package for phylogenetic analyses using gene tree parsimony (GTP)."
                   }
     ]
   }
