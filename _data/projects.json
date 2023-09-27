@@ -17,6 +17,21 @@
         "photo": "/assets/images/projects/iGTP.png",
         "github": "https://github.com/CompBioTeam/iGTP",
         "about": "iGTP is a software package for phylogenetic analyses using gene tree parsimony (GTP)."
+      },
+      {
+        "name": "DupTree",
+        "github": "https://github.com/CompBioTeam/DupTree",
+        "about": "DupTree is a program for phylogenetic analyses using gene tree parsimony. That is, given a collection of binary gene trees, DupTree searches for a species supertree that implies the fewest number of gene duplication events."
+      },
+      {
+        "name": "RF-Supertrees",
+        "github": "https://github.com/CompBioTeam/RF-Supertrees",
+        "about": "This program takes as input a collection of rooted trees and heuristically searches for a binary supertree that minimizes the total (rooted) Robinson-Foulds distance between the supertree and the input trees."
+      },
+      {
+        "name": "biclique",
+        "github": "https://github.com/CompBioTeam/biclique",
+        "about": "This is an implementation of maximal biclique enumeration algorithm from Alexe et al. (http://citeseer.nj.nec.com/alexe02consensus.html)"
       }
     ]
   }
