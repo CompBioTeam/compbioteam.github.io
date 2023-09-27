@@ -8,6 +8,35 @@
     "records": [
         {
             "type": "article",
+            "id": "10.1093/bioinformatics/btad263",
+            "citekey": "10.1093/bioinformatics/btad263",
+            "title": "Phylogenetic diversity statistics for all clades in a phylogeny",
+            "year": "2023",
+            "author": [
+                {
+                    "name": "Grover, Siddhant"
+                },
+                {
+                    "name": "Markin, Alexey"
+                },
+                {
+                    "name": "Anderson, Tavis K"
+                },
+                {
+                    "name": "Eulenstein, Oliver"
+                }
+            ],
+            "journal": {
+                "name": "Bioinformatics",
+                "volume": "39",
+                "number": "Supplement 1",
+                "pages": "i177--i184"
+            },
+            "link": "https://doi.org/10.1093/bioinformatics/btad263",
+            "booktitle": ""
+        },
+        {
+            "type": "article",
             "id": "10.1007/978-3-031-36911-7_9",
             "citekey": "10.1007/978-3-031-36911-7_9",
             "collection": "Comparative Genomics",
