@@ -39,18 +39,7 @@
                 "interests": ["Phylogenetics","Algorithms"],
                 "about": "Currently working on designing algorithms to efficiently compare phylogenetic trees and formulate new metrics to represent evolutionary processes",
                 "github":"https://github.com/swagle8987"
-              },
-              {
-                "name": "Srijita Chandra",
-                "photo": "/assets/images/team/srijitac.jpg",
-                "info": "Ph.D.",
-                "website": "",
-                "email": "srijitac@iastate.edu",
-                "interests": ["Computational Biology","Bioinformatics","Machine Learning"],
-                "about": "Currently working on cluster analysis to detect and monitor animal health threats",
-                "github":"https://github.com/srijita0814"
-              },
-              
+              },              
               {
                 "name": "Jodi Calwood",
                 "photo": "/assets/images/team/jodi_calwood.jpg",
