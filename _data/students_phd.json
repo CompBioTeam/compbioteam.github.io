@@ -1,16 +1,6 @@
 {
   "members": [
               {
-                "name": "Sriram Vijendran",
-                "photo": "/assets/images/team/sriramv.png",
-                "info": "Ph.D.",
-                "website": "https://sriram98v.github.io/cv",
-                "email": "sriramv@iastate.edu",
-                "interests": ["Machine Learning", "Deep Learning", "Bayesian Models"],
-                "about": "Bayesian modeling and Deep Learning",
-                "github":"https://github.com/sriram98v"
-              },
-              {
                 "name": "Priyanka Banerjee",
                 "photo": "/assets/images/team/priyanka_banerjee.jpg",
                 "info": "Ph.D.",
@@ -29,6 +19,16 @@
                 "interests": ["Algorithms"],
                 "about": "I am currently working on developing algorithms towards existing phylogenetic measures on trees and networks. My research is aimed towards developing algorithmic tools for diversity distribution and selection",
                 "github":"#"
+              },
+              {
+                "name": "Sriram Vijendran",
+                "photo": "/assets/images/team/sriramv.png",
+                "info": "Ph.D.",
+                "website": "https://sriram98v.github.io/",
+                "email": "sriramv@iastate.edu",
+                "interests": ["Machine Learning", "Deep Learning", "Bayesian Models"],
+                "about": "Bayesian modeling and Deep Learning",
+                "github":"https://github.com/sriram98v"
               },
               {
                 "name": "Sanket Wagle",
