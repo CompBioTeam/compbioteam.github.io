@@ -10,6 +10,17 @@
                 "about": "Machine Learning and Bioinformatics Application in Medical Research",
                 "github": "https://github.com/sonvule59"
               }
+    
+              {
+                "name": "Aprameya V. Madhwaraj",
+                "photo": "/assets/images/team/aprameya.jpg",
+                "info": "M.S.",
+                "website": "https://www.linkedin.com/in/aprameyamadhwaraj/",
+                "email": "aprameya@iastate.edu",
+                "interests": ["Machine Learning", "Generative AI"],
+                "about": "Applications of AI and ML in healthcare",
+                "github": "https://github.com/AprameyaMadhwaraj"
+              }
   ]
 }
 
