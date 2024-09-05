@@ -9,7 +9,27 @@
                   "interests": ["Machine Learning", "Deep Learning", "Bayesian Models"],
                   "about": "My research area is the application of Machine Learning for genetic data. I work on applying supervised and un-supervised machine learning techniques on RNA-seq data, as well as developing MetaOmGraph - an open source java based software package for genetic data analysis",
                   "github": "https://github.com/vksriharsha"
-                }
+                },
+                {
+                "name": "Jodi Calwood",
+                "photo": "/assets/images/team/jodi_calwood.jpg",
+                "info": "Ph.D.",
+                "website": "",
+                "email": "pb11@iastate.edu",
+                "interests": ["Bioinformatics"],
+                "about": "Originally from PG county Maryland, Jodi is pursuing a PhD in the bioinformatics and computational biology (BCB) program under the guidance of Dr. Eulenstein and Dr. Kelley starting Fall 2021. She completed a B.S in Bioengineering at Walla Walla University in 2017 and a Masters in Agriculture Plant Science at Delaware State University in 2019. She is passionate about integrating technology with agriculture, her research focuses on developing predictive piplines for protein interaction, atomated phenotyping, and machine learning applications in agriculture plant science. In her spare time, she enjoys podcasts, reading, tabletop RPG’s, and videogames.",
+                "github":"https://github.com/JodC58972"
+              },
+              {
+                "name": "Siddhant Grover",
+                "photo": "/assets/images/team/grover16.jpeg",
+                "info": "Ph.D.",
+                "website": "#",
+                "email": "grover16@iastate.edu",
+                "interests": ["Algorithms"],
+                "about": "I am currently working on developing algorithms towards existing phylogenetic measures on trees and networks. My research is aimed towards developing algorithmic tools for diversity distribution and selection",
+                "github":"#"
+              }
     ]
   }
   
