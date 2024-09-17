@@ -19,7 +19,18 @@
                 "interests": ["Machine Learning", "Generative AI", "Speech Technology"],
                 "about": "Applications of AI and ML in healthcare with research experiences in signal processing and speech technology.",
                 "github": "https://github.com/AprameyaMadhwaraj"
+              },
+              {
+                "name": "Geng Ding",
+                "photo": "/assets/images/team/ding_geng.jpg",
+                "info": "M.S.",
+                "website": " https://www.linkedin.com/in/gengding61653/",
+                "email": "GengDing@iastate.edu",
+                "interests": ["Machine Learning", "Computational Biology", "Data Science"],
+                "about": "I am interested combining my background in biological field and the skill sets in computer science to solve real world problems.",
+                "github": "https://github.com/GengGengGengGeng"
               }
+
   ]
 }
 
