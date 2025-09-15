@@ -8,6 +8,90 @@
     "records": [
         {
             "type": "article",
+            "id": "10.1016/j.dam.2025.08.047",
+            "citekey": "10.1016/j.dam.2025.08.047",
+            "title": "The topology diameters of the asymmetric cluster affinity cost",
+            "year": "2026",
+            "author": [
+                {
+                    "name": "G\u00f3recki, Pawel"
+                },
+                {
+                    "name": "Wagle, Sanket"
+                },
+                {
+                    "name": "Eulenstein, Oliver"
+                }
+            ],
+            "journal": {
+                "name": "Discrete Applied Mathematics",
+                "volume": "378",
+                "number": "1",
+                "pages": "602--612"
+            },
+            "link": "https://doi.org/10.1016/j.dam.2025.08.047",
+            "booktitle": ""
+        },
+        {
+            "type": "article",
+            "id": "10.1186/s12859-025-06234-w",
+            "citekey": "10.1186/s12859-025-06234-w",
+            "title": "Phylo-rs: an extensible phylogenetic analysis library in rust",
+            "year": "2025",
+            "author": [
+                {
+                    "name": "Vijendran, Sriram"
+                },
+                {
+                    "name": "Markin, Alexey"
+                },
+                {
+                    "name": "Anderson, Tavis K"
+                },
+                {
+                    "name": "Eulenstein, Oliver"
+                }
+            ],
+            "journal": {
+                "name": "BMC bioinformatics",
+                "volume": "26",
+                "number": "1",
+                "pages": "197"
+            },
+            "link": "https://doi.org/10.1186/s12859-025-06234-w",
+            "booktitle": ""
+        },
+        {
+            "type": "article",
+            "id": "10.1371/journal.pcbi.1013069",
+            "citekey": "10.1371/journal.pcbi.1013069",
+            "title": "Computing generalized cophenetic distances under all L p norms: A near-linear time algorithmic framework",
+            "year": "2025",
+            "author": [
+                {
+                    "name": "G\u00f3recki, Pawel"
+                },
+                {
+                    "name": "Markin, Alexey"
+                },
+                {
+                    "name": "Vijendran, Sriram"
+                },
+                {
+                    "name": "Eulenstein, Oliver"
+                }
+            ],
+            "journal": {
+                "name": "PLOS Computational Biology",
+                "volume": "21",
+                "number": "6",
+                "pages": "e1013069"
+            },
+            "link": "https://doi.org/10.1371/journal.pcbi.1013069",
+            "booktitle": ""
+        },
+        {
+            "type": "article",
             "id": "10.1093/bioinformatics/btad263",
             "citekey": "10.1093/bioinformatics/btad263",
             "title": "Phylogenetic diversity statistics for all clades in a phylogeny",
