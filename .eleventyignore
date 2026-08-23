@@ -1,0 +1,4 @@
+# Eleventy's input dir is the repo root, so it picks up every .md it finds.
+# Keep tooling/agent config out of the build (and out of the published site).
+.claude
+README.md

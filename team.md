@@ -3,14 +3,14 @@ layout: layout.njk
 title: Our Team
 ---
 
-<ul class="team-nav">
-    <a class="anchor ma05" href="#Faculty">Faculty</a>
-    <a class="anchor ma05" href="#phd_s">Ph.D. Students</a>
-    <a class="anchor ma05" href="#ms_s">M.S. Students</a>
-    <a class="anchor ma05" href="#alumni">Alumni</a>
-    <a class="anchor ma05" href="#colab">Collaborators</a>
+<ul class="team-nav">{% if staff.members.size > 0 %}<a class="anchor ma05" href="#Faculty">Faculty</a>{% endif -%}
+{% if students_phd.members.size > 0 %}<a class="anchor ma05" href="#phd_s">Ph.D. Students</a>{% endif -%}
+{% if students_ms.members.size > 0 %}<a class="anchor ma05" href="#ms_s">M.S. Students</a>{% endif -%}
+{% if alumni.members.size > 0 %}<a class="anchor ma05" href="#alumni">Alumni</a>{% endif -%}
+{% if colab.members.size > 0 %}<a class="anchor ma05" href="#colab">Collaborators</a>{% endif %}
 </ul>
 
+{% if staff.members.size > 0 %}
 <h2 id="Faculty" style="scroll-offset">Faculty</h2>
 <div>
 {%for member in staff.members%}
@@ -37,8 +37,13 @@ title: Our Team
 </div>
 {%endfor%}
 </div>
+{% endif %}
 
+{% if students_phd.members.size > 0 or students_ms.members.size > 0 %}
 <h2>Students</h2>
+{% endif %}
+
+{% if students_phd.members.size > 0 %}
 <h3 id="phd_s" style="scroll-offset">Ph.D.</h3>
 <div>
 {%for member in students_phd.members%}
@@ -65,7 +70,9 @@ title: Our Team
 </div>
 {%endfor%}
 </div>
+{% endif %}
 
+{% if students_ms.members.size > 0 %}
 <h3 id="ms_s" style="scroll-offset">M.S</h3>
 <div>
 {%for member in students_ms.members%}
@@ -92,7 +99,9 @@ title: Our Team
 </div>
 {%endfor%}
 </div>
+{% endif %}
 
+{% if alumni.members.size > 0 %}
 <h3 id="alumni" style="scroll-offset">Alumni</h3>
 <div>
 {%for member in alumni.members%}
@@ -119,7 +128,9 @@ title: Our Team
 </div>
 {%endfor%}
 </div>
+{% endif %}
 
+{% if colab.members.size > 0 %}
 <h3 id="colab" style="scroll-offset">Colaborators</h3>
 <div>
 {%for member in colab.members%}
@@ -140,5 +151,6 @@ title: Our Team
 </div>
 {%endfor%}
 </div>
+{% endif %}
 
 

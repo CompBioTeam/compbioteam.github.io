@@ -1,36 +1,4 @@
 {
-  "members": [
-              {
-                "name": "Son L. Vu",
-                "photo": "/assets/images/team/sonv.jpg",
-                "info": "M.S.",
-                "website": "https://www.linkedin.com/in/son-vu-le/",
-                "email": "svu23@iastate.edu",
-                "interests": ["Machine Learning", "Bioinformatics", "Biomedical Research"],
-                "about": "Machine Learning and Bioinformatics Application in Medical Research",
-                "github": "https://github.com/sonvule59"
-              },
-              {
-                "name": "Abishek Jayan",
-                "photo": "/assets/images/team/abishekj.jpg",
-                "info": "M.S.",
-                "website": "https://www.linkedin.com/in/aprameyamadhwaraj/",
-                "email": "abishekj@iastate.edu",
-                "interests": ["Virtual Reality"],
-                "about": "Applications of virtual reality in healthcare with research experiences.",
-                "github": "https://github.com/Abishek-Jayan/abishek-jayan"
-              },
-              {
-                "name": "Geng Ding",
-                "photo": "/assets/images/team/ding_geng.jpeg",
-                "info": "M.S.",
-                "website": " https://www.linkedin.com/in/gengding61653/",
-                "email": "GengDing@iastate.edu",
-                "interests": ["Machine Learning", "Computational Biology", "Data Science"],
-                "about": "I am interested combining my background in biological field and the skill sets in computer science to solve real world problems.",
-                "github": "https://github.com/GengGengGengGeng"
-              }
-
-  ]
+  "members": []
 }
 

@@ -5,26 +5,25 @@ jobs:
   build:
     runs-on: ubuntu-latest
 
-    strategy:
-      matrix:
-        node-version: [16.x]
-
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4
 
-      - name: Use Node.js ${{ matrix.node-version }}
-        uses: actions/setup-node@v1
-        with:
-          node-version: ${{ matrix.node-version }}
+      # use 'nix build'
+      - uses: DeterminateSystems/nix-installer-action@main
+      - uses: DeterminateSystems/magic-nix-cache-action@main
 
-      - name: Install dependencies & build
+      - name: Build site
         run: |
-          npm ci
-          npm run build 
+          nix build --print-build-logs
+          # This is for local runners/`act` setups
+          rm -rf _site
+          mkdir -p _site
+          cp -rL result/. _site/
+          chmod -R u+w _site
+
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
-          publish_dir: _site 
+          publish_dir: _site
           publish_branch: gh-pages
           github_token: ${{ secrets.GITHUB_TOKEN }}
-

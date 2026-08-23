@@ -2,8 +2,11 @@
   "name": "website",
   "version": "1.0.0",
   "main": "index.js",
+  "bin": {
+    "bib": "bin/bib.mjs"
+  },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "node bin/bib.mjs check",
     "build": "env NODE_ENV=production npx eleventy"
   },
   "repository": {
@@ -19,6 +22,7 @@
   "homepage": "https://github.com/CompBioTeam/website#readme",
   "devDependencies": {
     "@11ty/eleventy": "^1.0.1",
+    "@retorquere/bibtex-parser": "^10.0.1",
     "js-yaml": "^4.1.0"
   },
   "description": "",

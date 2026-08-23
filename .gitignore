@@ -1,2 +1,8 @@
 node_modules/
 _site/
+.claude/
+
+# Nix
+result
+result-*
+.direnv/

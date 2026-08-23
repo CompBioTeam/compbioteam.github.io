@@ -10,7 +10,16 @@
                 "about": "My research utilizes machine learning and language models to understand genomic data.",
                 "github":"https://github.com/priyamayur"
               },
-              
+              {
+                "name": "Geng Ding",
+                "photo": "/assets/images/team/ding_geng.jpeg",
+                "info": "M.S.",
+                "website": " https://www.linkedin.com/in/gengding61653/",
+                "email": "GengDing@iastate.edu",
+                "interests": ["Machine Learning", "Computational Biology", "Data Science"],
+                "about": "I am interested combining my background in biological field and the skill sets in computer science to solve real world problems.",
+                "github": "https://github.com/GengGengGengGeng"
+              },
               {
                 "name": "Sriram Vijendran",
                 "photo": "/assets/images/team/sriramv.png",
